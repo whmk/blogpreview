@@ -1,0 +1,28 @@
+.flex {
+    border-radius: 20px;
+    width: 500px;
+    background-color: pink;
+    padding-left: 30px;
+  }
+  img {
+    border-radius: 20px;
+    padding-top: 20px;
+  }
+  button {
+    background-color: yellow;
+    border-radius: 5px;
+    width: 150px;
+    height: 40px;
+    font-weight: bold;
+  }
+  p {
+    font-size: medium;
+  }
+  h1 {
+    color: yellow;
+  }
+  span {
+    font-weight: bold;
+    size: 20px;
+    padding-left: 20px;
+  }
